@@ -1,0 +1,10 @@
+# 忽略 .env 文件（敏感信息）
+.env
+
+# 忽略 data 文件夹及其所有子文件夹和文件
+data/
+
+# 可选：忽略 VSCode 工作区文件等
+.vscode/
+__pycache__/
+*.pyc
